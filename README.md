@@ -14,6 +14,7 @@ Generate the following content pieces using distinct prompts for each:
 A short Blog Post Introduction (approx. 150 words): Announcing PureCycle Cleaners, highlighting its unique selling points and inviting readers to explore the full range.
 Three Social Media Captions (for Instagram/Facebook): Each caption should focus on a different aspect (e.g., eco-friendliness, cleaning power, convenience of refillable design). Include relevant emojis and 3-5 hashtags per caption.
 A concise Product Description (max 80 words) for the "PureCycle All-Purpose Cleaner": Emphasize its plant-based formula, effectiveness on multiple surfaces, and refillable bottle.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task 2: SEO Content Strategy for a Niche Blog
 Scenario: You manage a blog for "PetPal Wellness," specializing in holistic health for dogs. A recent trend indicates rising interest in "natural remedies for dog anxiety." You need to create foundational content for this topic to rank highly on Google.
@@ -28,6 +29,8 @@ Using your prompt engineering skills:
 Generate 5 relevant long-tail keywords related to "natural remedies for dog anxiety" that indicate informational or commercial intent (e.g., "best calming treats for dogs," "herbal supplements for anxious dogs").
 Create a detailed outline for a comprehensive blog post (min. 5 main headings, 3 sub-headings for each main heading) titled "The Ultimate Guide to Natural Remedies for Dog Anxiety." The outline should suggest content that genuinely addresses the keywords and provides value beyond basic information.
 Craft a compelling SEO Title (max 60 chars) and Meta Description (max 160 chars) for this blog post, optimizing for your primary and some secondary keywords.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task 3: Professional Job Application Package
 Scenario: You are applying for a "Senior Data Scientist" position at "InnovateAI Solutions." You have a generic resume, and you need to tailor it for this specific application, and craft a compelling cover email.
