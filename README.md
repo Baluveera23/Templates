@@ -14,6 +14,7 @@ Generate the following content pieces using distinct prompts for each:
 A short Blog Post Introduction (approx. 150 words): Announcing PureCycle Cleaners, highlighting its unique selling points and inviting readers to explore the full range.
 Three Social Media Captions (for Instagram/Facebook): Each caption should focus on a different aspect (e.g., eco-friendliness, cleaning power, convenience of refillable design). Include relevant emojis and 3-5 hashtags per caption.
 A concise Product Description (max 80 words) for the "PureCycle All-Purpose Cleaner": Emphasize its plant-based formula, effectiveness on multiple surfaces, and refillable bottle.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task 2: SEO Content Strategy for a Niche Blog
